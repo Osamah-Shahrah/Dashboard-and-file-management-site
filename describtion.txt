@@ -1,0 +1,5 @@
+1-Design the main page to watch dashboard and file for browsing the database.
+2-The permeation for the user from list or table  see the dashboard and the file name the file.
+3-The filter in the main page use the name fail and name dashboard.
+4-Add table or list check box for the fail name in the user account page to select the permeations for the user.
+5-Add table or list check box for the dashboard name in the user account page to select the permeations for the user.
